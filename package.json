@@ -1,0 +1,24 @@
+{
+  "name": "express-canvas-test",
+  "version": "1.0.0",
+  "description": "Test example from express.io edited by me to test how it works.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaykayyali/Express-canvas-project.git"
+  },
+  "keywords": [
+    "Test",
+    "fun"
+  ],
+  "author": "Kaysser Kayyali based on the canvas example at express.io",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kaykayyali/Express-canvas-project/issues"
+  },
+  "homepage": "https://github.com/kaykayyali/Express-canvas-project#readme"
+}
